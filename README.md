@@ -1,2 +1,2 @@
 # MNIST
-MNIST DataProject in R
+MNIST DataProject in Python
